@@ -11,10 +11,14 @@
             "id": "600dcd3a5efa615c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "NVH/Team lead TODO.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Team lead TODO"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NVH/Team lead TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Team lead TODO"
             }
           },
           {
@@ -162,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,11 +181,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "600dcd3a5efa615c",
+  "active": "ae9df34abfa880df",
   "lastOpenFiles": [
+    "Untitled",
+    "NVH/Ideas/Handheld instruments.canvas",
+    "Untitled.canvas",
+    "NVH/Ideas/Handheld instruments.md",
+    "NVH/Team lead TODO.md",
+    "NVH/Ideas",
+    "NVH",
     "2025-12-09.md",
     "Untitled.base",
-    "Welcome.md",
-    "Untitled.canvas"
+    "Welcome.md"
   ]
 }
