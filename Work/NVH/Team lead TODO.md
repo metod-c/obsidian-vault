@@ -26,10 +26,10 @@
 # Release tasks
 - Fill out [feature list](https://docs.google.com/spreadsheets/d/1NGUcjQSFYG_EzVCGTZp3QF6j-phXo5ypj-xuU5TCYvc/) for each release. 
 - Cleanp [changelog](https://docs.google.com/spreadsheets/d/1AKumFfHmnHx33LQa7z1d5HBi8rQJztUrr5WvtGZqK2E) (include Lučka for help).
-- new feature testing [https://docs.google.com/spreadsheets/d/1k0-C_DSob_11eQAw6GZd7gNwKxS-pZ4nAtPKpLiYfLE](https://docs.google.com/spreadsheets/d/1k0-C_DSob_11eQAw6GZd7gNwKxS-pZ4nAtPKpLiYfLE)
+- New [feature testing](https://docs.google.com/spreadsheets/d/1k0-C_DSob_11eQAw6GZd7gNwKxS-pZ4nAtPKpLiYfLE).
 - Push for manuals, F1, review manuals.
 - Newsletter writeup, review newsletter.
-- NVH WSJF features spreadsheet.[https://docs.google.com/spreadsheets/d/1tbA4nQYih2fbBUVU35Y4iYZN0nE-ETk7/](https://docs.google.com/spreadsheets/d/1tbA4nQYih2fbBUVU35Y4iYZN0nE-ETk7/)
+- NVH [WSJF features spreadsheet](https://docs.google.com/spreadsheets/d/1tbA4nQYih2fbBUVU35Y4iYZN0nE-ETk7/).
 
 # Yearly reviews
 - In Jan/Feb 1 hole meetings (1 on 1) with team.
@@ -37,12 +37,12 @@
 - ERP fill in before & after the meeting.
 
 # Modules documentation
-[https://drive.google.com/drive/folders/1P7k5iqxFHdOYxTB5avgimeFIru6uBZMh](https://drive.google.com/drive/folders/1P7k5iqxFHdOYxTB5avgimeFIru6uBZMh)
+Maintain and push for keeping math [modules documentation](https://drive.google.com/drive/folders/1P7k5iqxFHdOYxTB5avgimeFIru6uBZMh).
 
-students/interns first go through pro training, then "bugs found by cimerlajt"
+# Mentoring
+Students/interns first go through pro training, then **Bugs found by Cimerlajt**
 
-lucka: CEA, EIS
+# Maintenance
+Lučka: CEA, EIS
+Andrej: MA, MT, Function generator, Thermodynamics - we should aim to transfer responsibilities to other developers.
 
-andrej: MA, MT, FGen, thermodynamics
-
-**
