@@ -15,7 +15,7 @@
               "state": {
                 "file": "NVH/Team lead TODO.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Team lead TODO"
@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +182,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "ae9df34abfa880df",
+  "active": "600dcd3a5efa615c",
   "lastOpenFiles": [
     "Untitled",
     "NVH/Ideas/Handheld instruments.canvas",
