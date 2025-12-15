@@ -11,17 +11,14 @@
             "id": "600dcd3a5efa615c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "NVH/Ideas/Handheld instruments.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Work in progress.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Handheld instruments"
+              "icon": "lucide-file",
+              "title": "Work in progress"
             }
           }
         ]
@@ -187,15 +184,17 @@
   },
   "active": "600dcd3a5efa615c",
   "lastOpenFiles": [
-    "NVH/Team lead TODO.md",
-    "Untitled",
+    "Teamleading/NVH 2026 Plan - ideas.md",
+    "Teamleading/TODO.md",
+    "Teamleading",
+    "Work in progress.md",
+    "Untitled.base",
     "NVH/Ideas/Handheld instruments.canvas",
     "Untitled.canvas",
     "NVH/Ideas/Handheld instruments.md",
     "NVH/Ideas",
     "NVH",
     "2025-12-09.md",
-    "Untitled.base",
     "Welcome.md"
   ]
 }

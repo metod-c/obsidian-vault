@@ -1,0 +1,7 @@
+- [ ] Finish RT  DSP lib and align it with libidps
+	- [x] Integer FIR
+	- [ ] Integer IIR
+	- [ ] Integer table
+	- [ ] Update unit tests
+- [ ] Planning recap
+- [ ] 
