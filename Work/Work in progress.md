@@ -1,7 +1,30 @@
-- [ ] Finish RT  DSP lib and align it with libidps
+- [x] Finish RT  DSP lib and align it with libidsp
 	- [x] Integer FIR
-	- [ ] Integer IIR
-	- [ ] Integer table
-	- [ ] Update unit tests
-- [ ] Planning recap
-- [ ] 
+	- [x] Integer IIR
+	- [x] Integer table
+	- [x] Update unit tests
+	- [x] Unit test for AI processing chain
+- [x] Planning recap
+- [x] US team discussion for NVH
+- [x] Fix calculation of different sensor on CNT
+- [x] Fix CNTs in Dewesoft
+- [x] Fix counters module unit tests
+- [x] Airgap sensor grouping (pairs of 4)
+- [x] Orbit channels
+	- [x] Form sensor groups
+	- [x] Get orbits from dll per plane
+	- [x] Get orbit results from dll per orbit
+	- [x] Mount channels and set properties
+	- [x] Put channels in groups
+	- [x] Fill channels
+- [x] Pole deviation for magnetic flux channels
+- [x] Add amplitude scaling (peak, peak-peak, rms)
+- [x] Unit tests
+	- [x] Orbits
+	- [ ] Amplitude scaling
+- [ ] Rotor X, Y from gaps
+	- [ ] Calculation
+	- [ ] Unit test
+	- [ ] DLL interface
+	- [ ] Add channel
+	- [ ] Fill channel
