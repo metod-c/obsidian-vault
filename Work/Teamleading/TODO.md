@@ -7,7 +7,7 @@
 - Approve ERP workflow requests.
 
 # Weekly tasks
-- Weekly PM & PO sync reporting. Put report in the document prepared in the [linked document](https://drive.google.com/drive/folders/1GspTCMymsZcw8mbweQHGGoz4LVxh3K2C).
+- Weekly PM & PO sync reporting. Put report in the document prepared in the [linked document](https://drive.google.com/drive/folders/1GspTCMymsZcw8mbweQHGGoz4LVxh3K2C)
 - NVH progress meetings 1x weekly, currently schedule on Fridays.
 - NVH board clean-up (push for reviews, in testing, needs merge).
 

@@ -21,10 +21,16 @@
 - [x] Add amplitude scaling (peak, peak-peak, rms)
 - [x] Unit tests
 	- [x] Orbits
-	- [ ] Amplitude scaling
-- [ ] Rotor X, Y from gaps
-	- [ ] Calculation
-	- [ ] Unit test
-	- [ ] DLL interface
-	- [ ] Add channel
-	- [ ] Fill channel
+	- [x] Amplitude scaling
+- [x] Rotor X, Y from gaps
+	- [x] Calculation
+	- [x] Unit test
+	- [x] DLL interface
+	- [x] Add channel
+	- [x] Fill channel
+- [x] Gap angles
+	- [x] DLL interface
+	- [x] Add channel
+	- [x] Fill channel
+	- [x] Unit test
+- [ ] API for getting capability / available channels
