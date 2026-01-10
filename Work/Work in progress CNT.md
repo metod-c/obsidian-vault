@@ -19,7 +19,7 @@ What you see in video:
 
 - [x] **First DeviceSR=SetupSampleRate=20kHz. When my sensor starts it shows really quick a live value. Then I change SetupSampleRate=5kHz. No it takes about 3-5sec before my sensor action reflects on live values. (both, SetupList and ChannelSetupScreen).**
 
-- [ ] to5) Enable/Disable Angle/Freq/CntTicks in CalcSetup, if you do it for a while or quick it leads still to AccessViolations. Old Video is still valid.
+- [x] to5) Enable/Disable Angle/Freq/CntTicks in CalcSetup, if you do it for a while or quick it leads still to AccessViolations. Old Video is still valid.
 
 - [x] to6) Default ChannelMin/Max: nothing has changed? so still open.
 	- [ ] Check if raw count changed depending on the sensor in white mode

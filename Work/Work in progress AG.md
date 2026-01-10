@@ -34,3 +34,8 @@
 	- [x] Fill channel
 	- [x] Unit test
 - [ ] API for getting capability / available channels
+- [ ] Stator shape
+- [ ] Rotor shape
+- [ ] Refactor
+- [ ] Unit tests
+- [ ] Data tests
