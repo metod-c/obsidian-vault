@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work in progress CNT.md",
+                "file": "Work in progress AG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Work in progress CNT"
+              "title": "Work in progress AG"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work in progress CNT.md",
+                "file": "Work in progress AG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Work in progress CNT"
+              "title": "Backlinks for Work in progress AG"
             }
           },
           {
@@ -183,11 +183,14 @@
   },
   "active": "600dcd3a5efa615c",
   "lastOpenFiles": [
-    "Work in progress AG.md",
-    "Work in progress RT DSP.md",
-    "Work in progress CNT.md",
-    "Teamleading/NVH 2026 Plan - ideas.md",
     "Teamleading/TODO.md",
+    "Teamleading/NVH 2026 Plan - ideas.md",
+    "Work in progress CNT.md",
+    "Archive/Work in progress RT DSP.md",
+    "Archive",
+    "SRS issues.md",
+    "NVH/For meeting.md",
+    "Work in progress AG.md",
     "NVH/Ideas/Handheld instruments.canvas",
     "Teamleading",
     "Untitled.base",

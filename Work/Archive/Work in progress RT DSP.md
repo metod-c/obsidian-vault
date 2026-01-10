@@ -1,4 +1,4 @@
 - [x] All versions of the filters
 - [x] Test processing chain
 - [x] Send email to all parties
-- [ ] Fix as per Dejan
+- [x] Fix as per Dejan

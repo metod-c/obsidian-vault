@@ -1,0 +1,2 @@
+- Integration of acceleration to velocity introduces offset - should be 0  after the shock.
+- SRS spectra - JH not sure if they are close enough
