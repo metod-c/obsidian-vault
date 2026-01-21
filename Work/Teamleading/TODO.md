@@ -32,7 +32,7 @@
 - NVH [WSJF features spreadsheet](https://docs.google.com/spreadsheets/d/1tbA4nQYih2fbBUVU35Y4iYZN0nE-ETk7/).
 
 # Yearly reviews
-- In Jan/Feb 1 hole meetings (1 on 1) with team.
+- In Jan/Feb 1 hold meetings (1 on 1) with team.
 - Pay raises suggested to Sašo before the meeting.
 - ERP fill in before & after the meeting.
 

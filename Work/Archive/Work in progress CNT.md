@@ -31,7 +31,7 @@ What you see in video:
 
 - [x] to13) Changing Sensor in SensorEditor out of CNTChannelSetupscreen does not update setupscreen. If the sensor type stays the same it seems to update correct, but if I add in SensorEditor and new Sensor (like GTwithDblTeeth to Encoder) it shows wrong connection picture, still the one of GTwithDblTeeth.
 	- [x] add 13.1) Encoder X mode is not taken from Sensor on first time selection
-- [ ] MemCheck
+- [x] MemCheck
 
 
 

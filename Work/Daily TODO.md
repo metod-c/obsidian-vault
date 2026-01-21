@@ -1,0 +1,3 @@
+- [x] Mihoci - check bug still exists
+- [x] Bug from soren
+- [ ] Build and test fatigue on device 

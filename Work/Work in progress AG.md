@@ -33,9 +33,22 @@
 	- [x] Add channel
 	- [x] Fill channel
 	- [x] Unit test
-- [ ] API for getting capability / available channels
-- [ ] Stator shape
-- [ ] Rotor shape
+- [x] API for getting capability / available channels
+	- [x] AvailableOutputs from lib
+		- stator shape
+		- orbits
+		- center
+	- [x] Checkboxes Dewesoft
+		- [x] Dll function
+		- [x] Get available outputs
+		- [x] Pole profiles
+		- [x] Gap statistics
+		- [x] Orbits
+		- [x] Stator shape
+		- [x] Rotor center
+	- [ ] Unit test
+- [x] Stator shape
+- [x] Rotor shape (interpolated)
 - [ ] Refactor
 - [ ] Unit tests
 - [ ] Data tests
