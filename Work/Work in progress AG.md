@@ -46,9 +46,15 @@
 		- [x] Orbits
 		- [x] Stator shape
 		- [x] Rotor center
-	- [ ] Unit test
 - [x] Stator shape
 - [x] Rotor shape (interpolated)
-- [ ] Refactor
+- [x] Refactor
+- [ ] Stator center
+- [ ] Channel properties
+- [ ] Compensation (how)
 - [ ] Unit tests
+	- [ ] Result availability
+	- [ ] Stator center
+	- [ ] Stator shape
+	- [ ] Rotor shape
 - [ ] Data tests
