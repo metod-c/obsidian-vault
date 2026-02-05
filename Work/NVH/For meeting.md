@@ -1,6 +1,0 @@
-- [ ] Update statuses
-	- [ ] Push for CR and test/merge
-- [ ] Epic 2026.1
-	- [ ] Priority to clean-up bugs
-	- [ ] Share workload
-	- [ ] Remove stories from epic

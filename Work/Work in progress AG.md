@@ -49,7 +49,9 @@
 - [x] Stator shape
 - [x] Rotor shape (interpolated)
 - [x] Refactor
-- [ ] Stator center
+- [x] Stator center
+- [x] Tacho position
+- [x] Wrong interpolation
 - [ ] Channel properties
 - [ ] Compensation (how)
 - [ ] Unit tests

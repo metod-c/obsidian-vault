@@ -1,14 +1,9 @@
-- [ ] Settable filters TODO
 - [ ] Test input filters
 	- [x] Simulator
-	- [ ] Device performance
+	- [x] Device performance
 		- [x] Obsidian
 		- [x] IOLite X
-		- [ ] Sirius XHS
+		- [x] Sirius XHS
 	- [ ] Merge ->master (chech it is after new version creation)
-- [x] Prepare meeting document
-- [x] SRS on G-drive
-- [x] PLan document
-- [ ] Fix SRS
-- [x] Fix pipeline build for gears
-- [x] Fix SQ
+- [ ] Cleanup changelog
+- [ ] Installer testing
