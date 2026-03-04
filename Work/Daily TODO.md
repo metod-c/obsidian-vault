@@ -1,9 +1,4 @@
-- [ ] Test input filters
-	- [x] Simulator
-	- [x] Device performance
-		- [x] Obsidian
-		- [x] IOLite X
-		- [x] Sirius XHS
-	- [ ] Merge ->master (chech it is after new version creation)
-- [ ] Cleanup changelog
-- [ ] Installer testing
+- [ ] Air gap widget documentation
+- [ ] Air gap widget setup
+- [ ] Air gap bugfix
+- [ ] 

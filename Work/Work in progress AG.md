@@ -1,62 +1,15 @@
-- [x] Finish RT  DSP lib and align it with libidsp
-	- [x] Integer FIR
-	- [x] Integer IIR
-	- [x] Integer table
-	- [x] Update unit tests
-	- [x] Unit test for AI processing chain
-- [x] Planning recap
-- [x] US team discussion for NVH
-- [x] Fix calculation of different sensor on CNT
-- [x] Fix CNTs in Dewesoft
-- [x] Fix counters module unit tests
-- [x] Airgap sensor grouping (pairs of 4)
-- [x] Orbit channels
-	- [x] Form sensor groups
-	- [x] Get orbits from dll per plane
-	- [x] Get orbit results from dll per orbit
-	- [x] Mount channels and set properties
-	- [x] Put channels in groups
-	- [x] Fill channels
-- [x] Pole deviation for magnetic flux channels
-- [x] Add amplitude scaling (peak, peak-peak, rms)
-- [x] Unit tests
-	- [x] Orbits
-	- [x] Amplitude scaling
-- [x] Rotor X, Y from gaps
-	- [x] Calculation
-	- [x] Unit test
-	- [x] DLL interface
-	- [x] Add channel
-	- [x] Fill channel
-- [x] Gap angles
-	- [x] DLL interface
-	- [x] Add channel
-	- [x] Fill channel
-	- [x] Unit test
-- [x] API for getting capability / available channels
-	- [x] AvailableOutputs from lib
-		- stator shape
-		- orbits
-		- center
-	- [x] Checkboxes Dewesoft
-		- [x] Dll function
-		- [x] Get available outputs
-		- [x] Pole profiles
-		- [x] Gap statistics
-		- [x] Orbits
-		- [x] Stator shape
-		- [x] Rotor center
-- [x] Stator shape
-- [x] Rotor shape (interpolated)
-- [x] Refactor
-- [x] Stator center
-- [x] Tacho position
-- [x] Wrong interpolation
-- [ ] Channel properties
-- [ ] Compensation (how)
 - [ ] Unit tests
 	- [ ] Result availability
 	- [ ] Stator center
 	- [ ] Stator shape
 	- [ ] Rotor shape
 - [ ] Data tests
+- [x] Set sensor and orbit for calculating min gap in setup
+- [x] Create channels for min gap, min gap angle, min gap pole
+- [x] Calculate min gap, min gap pole, min gap angle
+	- [x] Add results
+	- [x] Rework plane results to arrays
+	- [x] Implement calculation
+- [x] Check 32-bit build
+- [x] Create specs for graphics team
+- [ ] Calculate additional channels and relative values in %
