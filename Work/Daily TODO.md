@@ -1,4 +1,0 @@
-- [ ] Air gap widget documentation
-- [ ] Air gap widget setup
-- [ ] Air gap bugfix
-- [ ] 

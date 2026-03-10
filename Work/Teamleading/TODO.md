@@ -25,7 +25,7 @@
 
 # Release tasks
 - Fill out [feature list](https://docs.google.com/spreadsheets/d/1NGUcjQSFYG_EzVCGTZp3QF6j-phXo5ypj-xuU5TCYvc/) for each release. 
-- Cleanp [changelog](https://docs.google.com/spreadsheets/d/1AKumFfHmnHx33LQa7z1d5HBi8rQJztUrr5WvtGZqK2E) (include Lučka for help).
+- Cleanup [changelog](https://docs.google.com/spreadsheets/d/1AKumFfHmnHx33LQa7z1d5HBi8rQJztUrr5WvtGZqK2E) (include Lučka for help).
 - New [feature testing](https://docs.google.com/spreadsheets/d/1k0-C_DSob_11eQAw6GZd7gNwKxS-pZ4nAtPKpLiYfLE).
 - Push for manuals, F1, review manuals.
 - Newsletter writeup, review newsletter.
