@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11dd0c56b2214477",
+            "id": "e64a17b8ef86fe23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-03-10.md",
+                "file": "CNT rework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-10"
+              "title": "CNT rework"
             }
           }
         ]
@@ -94,9 +94,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-03-10.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Teamleading/Letni razgovori.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-03-10"
+              "title": "Backlinks for Letni razgovori"
             }
           },
           {
@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Teamleading/Letni razgovori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Letni razgovori"
             }
           },
           {
@@ -163,7 +164,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -181,18 +183,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "ae9df34abfa880df",
+  "active": "e64a17b8ef86fe23",
   "lastOpenFiles": [
-    "Daily TODO.md",
-    "2026-03-10.md",
-    "Rainflow counting FB.md",
+    "Teamleading/Letni razgovori.md",
     "Teamleading/NVH 2026 Plan - ideas.md",
-    "Teamleading/TODO.md",
-    "Utils/Debugging.md",
-    "AI signal chain.md",
-    "NVH/Ideas/Handheld instruments.canvas",
-    "NVH/Projects/Input filters testing.md",
+    "CNT rework.md",
+    "Daily todo.md",
     "Work in progress AG.md",
+    "Teamleading/TODO.md",
+    "NVH/Ideas/Handheld instruments.canvas",
+    "AI signal chain.md",
+    "Rainflow counting FB - feedback.md",
+    "Utils/Debugging.md",
+    "NVH/Projects/Input filters testing.md",
+    "Archive/FRI Demo.md",
+    "Academia.md",
+    "2026-03-10.md",
+    "Daily TODO.md",
     "Utils",
     "Teamleading/TODO_tmp.html",
     "Teamleading/TODO.pdf",
